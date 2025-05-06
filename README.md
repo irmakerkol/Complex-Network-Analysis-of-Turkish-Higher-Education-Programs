@@ -52,7 +52,7 @@ Requires Python 3.8+.
 ```bash
 # Clone repository
 git clone https://github.com/irmakerkol/Complex-Network-Analysis-of-Turkish-Higher-Education-Programs
-cd complex-network-analysis
+cd Complex-Network-Analysis-of-Turkish-Higher-Education-Programs
 
 # Create virtual environment (optional)
 python3 -m venv venv
