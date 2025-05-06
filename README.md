@@ -51,7 +51,7 @@ Requires Python 3.8+.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/complex-network-analysis.git
+git clone https://github.com/irmakerkol/Complex-Network-Analysis-of-Turkish-Higher-Education-Programs
 cd complex-network-analysis
 
 # Create virtual environment (optional)
